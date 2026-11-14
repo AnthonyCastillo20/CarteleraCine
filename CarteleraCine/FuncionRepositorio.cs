@@ -7,7 +7,7 @@ namespace CarteleraCine
     {
         private const string CadenaConexion =
             @"Server=(localdb)\MSSQLLocalDB;" +
-            @"Database=CarteleDB;" +
+            @"Database=CarteleraDB;" +
             @"Trusted_Connection=True;" +
             @"TrustServerCertificate=True;";
 
